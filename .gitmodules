@@ -1,0 +1,9 @@
+[submodule "docs/project1"]
+	path = docs/project1
+	url = git@gitlab.ics-it.ru:dr/submodule1.git
+	branch = master
+	
+[submodule "docs/project2"]
+	path = docs/project2
+	url = git@gitlab.ics-it.ru:dr/submodule2.git
+	branch = master
