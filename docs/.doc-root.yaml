@@ -1,11 +1,11 @@
-title: Автотест
+title: Тест реп
 logo: logo.svg
 logo_dark: logo_dark.svg
 group: products
 order: 1
 code: test
 lang: ru
-description: Для автотестирования
+description: Тест
 description_en: Autotests
 style: blue
 relatedLinks:
